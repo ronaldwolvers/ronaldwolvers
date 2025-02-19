@@ -6,7 +6,7 @@ Or if you know of any great MIDI library _or_ would just like to have a chat!
 
 📫 ahcwolvers@gmail.com
 
-♟️ check out my pet project chess app (with a slowly evolving 3D chessboard) at unrankedchess.com!
+♟️ check out my pet project chess app (with a slowly evolving 3D chessboard) at [unrankedchess.com](unrankedchess.com)
 
 <!---
 ronaldwolvers/ronaldwolvers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
